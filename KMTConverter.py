@@ -1,3 +1,4 @@
+#Original:  https://gist.github.com/mciantyre/32ff2c2d5cd9515c1ee7
 import xml.sax, xml.sax.handler
 
 class PlacemarkHandler(xml.sax.handler.ContentHandler):
